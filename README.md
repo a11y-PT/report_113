@@ -26,7 +26,6 @@ Consulte aqui a última atualização: [Relatório Portal Institucional do Munic
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
     <li><a href="24072026_report.html">(24/07/2026). Relatório Portal Institucional do Município de Sousel</a></li>
-    <li><a href="13072026_report.html">(13/07/2026). Relatório Portal Institucional do Município de Sousel</a></li>
   </ul>
 </details>
 
