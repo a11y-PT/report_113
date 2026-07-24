@@ -9,27 +9,24 @@ validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e d
 status: "Auditoria a decorrer" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
-# Relatório de auditoria
+# Portal Institucional do Município de Sousel
 
-Sítio Web: {{ page.website }}
+- Data de criação: 13/07/2026
+- URL: https://cm-sousel.pt
+- Propriedade: Município de Sousel
+- Candidatura: Prata
 
-- Data de criação: {{ page.date }}
-- URL: {{ page.uri }}
-- Propriedade: {{ page.owner }}
-- Candidatura: {{ page.seal }}
-- Validade do selo: {{ page.validity }}
-- Estado: {{ page.status }}
-
-## Relatório {{ page.website }}
+## Relatório de auditoria
 
 <p>O presente relatório resultou da auditoria da informação publicada na <a href="{{ page.a11y_statement }}">Declaração de Acessibilidade e Usabilidade</a>.</p>
 
-Consulte aqui a última atualização: [Relatório {{ page.website }}](report.html)
+Consulte aqui a última atualização: [Relatório Portal Institucional do Município de Sousel](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="13072026_report.html">(13/07/2026). Relatório {{ page.website }}</a></li>
+    <li><a href="24072026_report.html">(24/07/2026). Relatório Portal Institucional do Município de Sousel</a></li>
+    <li><a href="13072026_report.html">(13/07/2026). Relatório Portal Institucional do Município de Sousel</a></li>
   </ul>
 </details>
 
